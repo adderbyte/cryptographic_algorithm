@@ -1,4 +1,4 @@
-# cryptographic_algorithm_sage
+# cryptographic_algorithm
 
 
-Documentation of cryptographic algorithm implementation in sageMath
+ cryptographic algorithm implementation in sageMath - a python frame work
